@@ -1,1 +1,2 @@
 networkx
+cyclonedx-python-lib
